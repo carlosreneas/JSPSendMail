@@ -1,0 +1,27 @@
+header {
+	background-color: #9D1F5A;
+	color: white;
+	height: 60px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+
+footer {
+	background-color: #9D1F5A;
+	color: white;
+	height: 60px;
+	box-sizing: border-box;
+	bottom: 0px;
+	position: absolute;
+	width: 100%;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+}
